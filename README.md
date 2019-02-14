@@ -1,2 +1,2 @@
 # ideal-spork
-Treehouse - Bootstrap 4 Basics
+[Treehouse] Bootstrap 4 Basics course
